@@ -1,0 +1,67 @@
+[
+    {
+        "mode": "REQUIRED",
+        "name": "date",
+        "type": "TIMESTAMP"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "hub",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "deviceId",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "deviceType",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "eventId",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "device",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "property",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "value",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "unit",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "isphysical",
+        "type": "BOOLEAN"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "isstatechange",
+        "type": "BOOLEAN"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "source",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "location",
+        "type": "STRING"
+    }
+]
